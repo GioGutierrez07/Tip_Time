@@ -185,6 +185,7 @@ fun RoundTheTipRow(roundUp: Boolean,onRoundUpChanged: (Boolean) -> Unit, modifie
 }
 
 
+
 @Preview(showBackground = true)
 @Composable
 fun TipTimeLayoutPreview() {
